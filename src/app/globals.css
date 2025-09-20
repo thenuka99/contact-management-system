@@ -3,6 +3,25 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  --color-primary: #fafafa;
+  --color-secondary: #f5f5f5;
+  --color-accent: #C22419;
+  --color-accent-hover: #ad2016;
+  --color-accent-horver: var(--color-accent-hover);
+
+  --color-card: #f7f8fb;
+
+  --color-success: #36c084;
+  --color-warning: #f9a825;
+  --color-error: #f44336;
+  --color-info: #448aff;
+
+  --text-primary: #141414;
+  --text-secondary: #48484d;
+  --text-copy: #979fb2;
+  --text-caption: #787878;
+  --text-muted: #9399ab;
 }
 
 @theme inline {
